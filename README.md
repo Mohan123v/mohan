@@ -1,2 +1,2 @@
-# mohan
-okk
+print('Hello, world!')
+
